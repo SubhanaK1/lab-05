@@ -2,12 +2,14 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `subhana khan`
+- **CCID:** `subhana`
 
 ## References and Resources
+NA
 
-List any resources used here, or simply put `N/A` if not applicable.
+Method used to delete:
+Long hold deletion 
 
 ## Verbal Collaboration
 
